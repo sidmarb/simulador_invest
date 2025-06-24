@@ -32,8 +32,18 @@ A seguir, algumas capturas de tela da planilha para ilustrar suas funcionalidade
 
 ![Cenários](https://github.com/sidmarb/simulador_invest/blob/main/image/cenarios.png)
 
-### Perfil de Investimento
+### Perfil de Investimento - Conservador
 
-![Perfil de Investimento](https://github.com/sidmarb/simulador_invest/blob/main/image/perfil_investimento.png)
+![Perfil de Investimento - Conservador ](https://github.com/sidmarb/simulador_invest/blob/main/image/perfil_investimento-Conservador.png)
+
+### Perfil de Investimento - Moderado
+
+![Perfil de Investimento - Moderado ](https://github.com/sidmarb/simulador_invest/blob/main/image/perfil_investimento-Moderado.png)
+
+### Perfil de Investimento - Agressivo
+
+![Perfil de Investimento - Agressivo ](https://github.com/sidmarb/simulador_invest/blob/main/image/perfil_investimento-Agressivo.png)
+
+
 
 
