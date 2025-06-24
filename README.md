@@ -30,7 +30,7 @@ A seguir, algumas capturas de tela da planilha para ilustrar suas funcionalidade
 
 ### Cenários
 
-![Cenários](https://github.com/sidmarb/simulador_invest/blob/main/image/cenarios.png)
+![Cenários](https://github.com/sidmarb/simulador_invest/blob/4449da993b0c0e0c00185379d48081ed95c93f41/image/cenarios.png)
 
 ### Perfil de Investimento - Conservador
 
